@@ -8,8 +8,8 @@ import org.junit.jupiter.api.Test;
 /**
  * A classe de teste AuxiliarTest.
  *
- * @author  (seu nome)
- * @version (um número de versão ou data)
+ * @author Guilherme Alves (g.alves001@edu.pucrs.br)
+ * @version 2021-06-17
  */
 public class AuxiliarTest
 {

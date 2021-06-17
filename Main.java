@@ -1,5 +1,12 @@
 import java.util.Random;
 import java.util.Scanner;
+/**
+ * A classe {@code Main} contém a base para o jogo Roleta Russa
+ * fazendo uso de vetores.
+ * 
+ * @author Guilherme Alves (g.alves001@edu.pucrs.br)
+ * @version 2021-06-17
+ */
 public class Main
 {
 public static String[] init()
